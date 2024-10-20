@@ -1,5 +1,3 @@
----
-
 ## 👋 Hi, I’m Tsakane Shiri
 
 ### About Me
@@ -13,9 +11,12 @@
 ### GitHub Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tsakane28" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=tsakane28" />
 </a>
 <br />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsakane28&size_weight=0.5&count_weight=0.5)  
+[![Tsakane's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tsakane28)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Contact
 📫 I’m always open to networking and collaboration opportunities. You can reach me through:
@@ -23,7 +24,7 @@
 - **WhatsApp:** [Click here](https://wa.me/263776555485)
 - **Instagram:** [@tsaks28](https://instagram.com/tsaks28)
 
-[![Twitter Badge](https://img.shields.io/badge/-TsakaneShiri-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tmws_co_zw)](https://twitter.com/kudahndhlovu)
+[![Twitter Badge](https://img.shields.io/badge/-TsakaneShiri-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tmws_co_zw)](https://twitter.com/tmws_co_zw)
 [![Linkedin Badge](https://img.shields.io/badge/-TsakaneShiri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsakane-shiri)
 [![Instagram Badge](https://img.shields.io/badge/-TsakaneShiri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tsaks28)
 [![Gmail Badge](https://img.shields.io/badge/-TsakaneShiri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wesleytsakane116@gmail.com)
@@ -41,5 +42,6 @@
 - **📚 Reading:** Enjoy exploring books on technology, software architecture, and personal development.
 - **🎮 Gaming:** Avid gamer who appreciates game design and development.
 - **🌍 Traveling:** Love to explore new places and cultures, often finding inspiration for creative projects.
+
 ---
 
