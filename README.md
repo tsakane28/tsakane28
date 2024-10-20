@@ -41,6 +41,5 @@
 - **📚 Reading:** Enjoy exploring books on technology, software architecture, and personal development.
 - **🎮 Gaming:** Avid gamer who appreciates game design and development.
 - **🌍 Traveling:** Love to explore new places and cultures, often finding inspiration for creative projects.
-
 ---
 
