@@ -10,12 +10,10 @@
 
 ### GitHub Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=tsakane28" />
-</a>
+![Tsakane's's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsakane28&theme=default&show_icons=true)
+
 <br />
 
-![Tsakane's's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsakane28&theme=default&show_icons=true)
 
 ### Contact
 📫 I’m always open to networking and collaboration opportunities. You can reach me through:
