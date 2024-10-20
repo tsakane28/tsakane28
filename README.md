@@ -15,8 +15,7 @@
 </a>
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsakane28&size_weight=0.5&count_weight=0.5&hide=stars,issues)  
-
+![Tsakane's's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsakane28&theme=dark&show_icons=true)
 
 ### Contact
 📫 I’m always open to networking and collaboration opportunities. You can reach me through:
