@@ -11,9 +11,9 @@
 🌟 I am a passionate software engineer dedicated to developing robust and scalable web applications. Currently enhancing my skills in Information Technology, I strive to stay updated with the latest industry trends and best practices.
 
 ## 🛠️ Skills & Expertise
-- **💻 Web Development:** Proficient in creating user-centric web applications using modern frameworks like Svelte, Laravel, React, Angular, and Vue.js.
-- **⚙️ Software Engineering:** Strong understanding of software design principles, agile methodologies, and version control with Git.
-- **🌐 API Development:** Experienced in building and integrating RESTful APIs to enhance application functionality.
+💻 Web Development: Proficient in creating user-centric web applications using modern frameworks like Svelte, Laravel, React, Angular, and Vue.js.
+⚙️ Software Engineering: Strong understanding of software design principles, agile methodologies, and version control with Git.
+🌐 API Development: Experienced in building and integrating RESTful APIs to enhance application functionality.
 
 <hr/>
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
@@ -24,26 +24,26 @@
 </div>
 <br/>
 <hr/>
-## 📬 Contact
+📬 Contact
 📫 I’m always open to networking and collaboration opportunities. You can reach me through:
 
-- **WhatsApp:** [Click here](https://wa.me/263776555485)
-- **Instagram:** [@tsaks28](https://instagram.com/tsaks28)
-- **LinkedIn:** [Tsakane Shiri](https://www.linkedin.com/in/tsakane-shiri)
-- **Email:** [wesleytsakane116@gmail.com](mailto:wesleytsakane116@gmail.com)
+WhatsApp: [Click here](https://wa.me/263776555485)
+Instagram: [@tsaks28](https://instagram.com/tsaks28)
+LinkedIn: [Tsakane Shiri](https://www.linkedin.com/in/tsakane-shiri)
+Email: [wesleytsakane116@gmail.com](mailto:wesleytsakane116@gmail.com)
 
 <hr/>
-## 🎯 What I’m Looking For
-1. **👥 Networking:** Connecting with fellow developers and tech professionals to share insights and experiences.
-2. **🤝 Collaboration:** Excited to collaborate on web development projects that challenge my skills and foster innovation.
-3. **💼 Career Opportunities:** Actively seeking roles in software engineering and web development within dynamic teams.
-4. **📈 Continuous Learning:** Committed to staying current with advancements in software engineering, web development, and emerging tech trends.
+🎯 What I’m Looking For
+1. 👥 Networking: Connecting with fellow developers and tech professionals to share insights and experiences.
+2. 🤝 Collaboration: Excited to collaborate on web development projects that challenge my skills and foster innovation.
+3. 💼 Career Opportunities: Actively seeking roles in software engineering and web development within dynamic teams.
+4. 📈 Continuous Learning: Committed to staying current with advancements in software engineering, web development, and emerging tech trends.
 
 <hr/>
-## 🎮 Hobbies & Interests
-- **📚 Reading:** Enjoy exploring books on technology, software architecture, and personal development.
-- **🎮 Gaming:** Avid gamer who appreciates game design and development.
-- **🌍 Traveling:** Love to explore new places and cultures, often finding inspiration for creative projects.
+🎮 Hobbies & Interests
+📚 Reading: Enjoy exploring books on technology, software architecture, and personal development.
+🎮 Gaming Avid gamer who appreciates game design and development.
+🌍 Traveling: Love to explore new places and cultures, often finding inspiration for creative projects.
 
 <hr/>
 <div align="center">
