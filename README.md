@@ -11,7 +11,7 @@
 🌟 I am a passionate software engineer dedicated to developing robust and scalable web applications. Currently enhancing my skills in Information Technology, I strive to stay updated with the latest industry trends and best practices.
 
 ## 🛠️ Skills & Expertise
-- **💻 Web Development:** Proficient in creating user-centric web applications using modern frameworks like React, Angular, and Vue.js.
+- **💻 Web Development:** Proficient in creating user-centric web applications using modern frameworks like Svelte, Laravel, React, Angular, and Vue.js.
 - **⚙️ Software Engineering:** Strong understanding of software design principles, agile methodologies, and version control with Git.
 - **🌐 API Development:** Experienced in building and integrating RESTful APIs to enhance application functionality.
 
