@@ -64,7 +64,6 @@ I’m always open to networking and collaboration opportunities. You can reach m
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tsakane28&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<br/>
 ---
 ## **Graph Contributions**
 ![Tsakane's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsakane28&bg_color=0d1117&color=38bdf8&line=2563eb&point=60a5fa&area=true&hide_border=true)
