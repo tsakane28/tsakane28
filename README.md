@@ -68,7 +68,7 @@ I’m always open to networking and collaboration opportunities. You can reach m
 <hr/>
 <h2 align="center">🐍 My Contributions</h2>
 <p align="center">
-![snake gif](https://github.com/tsakane28/tsakane28/blob/output/github-contribution-grid-snake.gif)
+ <img alt="Snake animation" src="https://raw.githubusercontent.com/tsakane28/tsakane28/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
