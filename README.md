@@ -59,7 +59,7 @@ I’m always open to networking and collaboration opportunities. You can reach m
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tsakane28&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tsakane28&count_private=false&theme=react&border_radius=10" alt="streak stats"/>
 <br>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tsakane28&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <br/>
