@@ -3,7 +3,7 @@
 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tsakane28" />
 
-[![committers.top badge](https://user-badge.committers.top/zimbabwe/eisax.svg)](https://user-badge.committers.top/zimbabwe/eisax)
+[![committers.top badge](https://user-badge.committers.top/zimbabwe/tsakane28.svg)](https://user-badge.committers.top/zimbabwe/tsakane28)
 
 <hr/>
 
