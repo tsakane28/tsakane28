@@ -1,3 +1,5 @@
+[![Ultralytics - YOLOv8](https://img.shields.io/badge/Ultralytics-YOLOv8-success?logo=github&style=for-the-badge)](https://github.com/ultralytics/ultralytics)
+
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/tsakane28.svg)](https://user-badge.committers.top/zimbabwe_public/tsakane28)
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_private/tsakane28.svg)](https://user-badge.committers.top/zimbabwe_private/tsakane28)
 [![committers.top badge](https://user-badge.committers.top/zimbabwe/tsakane28.svg)](https://user-badge.committers.top/zimbabwe/tsakane28)
