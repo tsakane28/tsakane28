@@ -61,6 +61,10 @@ I’m always open to networking and collaboration opportunities. You can reach m
 <a href="https://www.credly.com/badges/46e4232b-a206-49bd-a97e-86f211bdb916/public_url" target="blank">
   <img src="[![network-addressing-and-basic-troubleshooting.png](https://i.postimg.cc/Y9h1JbhH/network-addressing-and-basic-troubleshooting.png)](https://postimg.cc/r0204G1n)" alt="google Badge" width="120" height="120">
 </a>
+<a href="https://www.credly.com/badges/46e4232b-a206-49bd-a97e-86f211bdb916/public_url" target="blank">
+  <img src="https://i.postimg.cc/GTHChV4Z/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity Badge" width="120" height="120">
+</a>
+
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📈 GitHub Stats</h2>
