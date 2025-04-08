@@ -59,7 +59,7 @@ I’m always open to networking and collaboration opportunities. You can reach m
 <hr/>
 
 <a href="https://www.credly.com/badges/46e4232b-a206-49bd-a97e-86f211bdb916/public_url" target="blank">
-  <img src="https://images.credly.com/size/340x340/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png" alt="google Badge" width="120" height="120">
+  <img src="[https://postimg.cc/r0204G1n]" alt="google Badge" width="120" height="120">
 </a>
 
 <!-- GitHub Stats Section -->
