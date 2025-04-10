@@ -1,0 +1,35 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5mins (adjust as needed)
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  commit_changes:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "Auto Commit Bot"
+        git config --global user.email "youremail@example.com"
+
+    - name: Make changes (or specify your script here)
+      run: |
+        # Example: Add a new file or modify an existing one
+        echo "Auto commit at $(date)" >> auto_commit.txt
+        git add auto_commit.txt
+
+    - name: Commit and push changes
+      run: |
+        git commit -m "Auto commit $(date)"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
