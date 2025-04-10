@@ -18,8 +18,8 @@ jobs:
 
     - name: Set up Git
       run: |
-        git config --global user.name "Auto Commit Bot"
-        git config --global user.email "youremail@example.com"
+        git config --global user.name "tsakane28"
+        git config --global user.email "wesleytsakane116@gmail.com"
 
     - name: Make changes (or specify your script here)
       run: |
