@@ -1,8 +1,20 @@
+<div align="center">
+  <a href="https://user-badge.committers.top/zimbabwe_public/tsakane28" target="_blank">
+    <img src="https://user-badge.committers.top/zimbabwe_public/tsakane28.svg" alt="Top Committer Badge"/>
+  </a>
+
+
+  <a href="https://user-badge.committers.top/zimbabwe_public/tsakane28" target="_blank">
+    <img src="https://img.shields.io/badge/🏆_%233_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=000000" alt="Top Committer Zimbabwe Badge"/>
+  </a>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tsakane28" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Tsakane+Shiri!;" />
 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tsakane28" />
+
 
 <hr/>
 
