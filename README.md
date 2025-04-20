@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://user-badge.committers.top/zimbabwe_public/tsakane28" target="_blank">
+ 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tsakane28" />
 </div>
 
