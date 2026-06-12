@@ -101,7 +101,7 @@ I care about code that's readable, systems that don't fall over, and interfaces 
 </div>
 
 <br/>
-## Let's Connect
+Let's Connect
 
 [<img src="https://img.shields.io/badge/LinkedIn-Tsakane_Shiri-1B3A6B?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tsakane-shiri)
 &nbsp;
