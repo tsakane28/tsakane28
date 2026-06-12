@@ -1,17 +1,21 @@
-<div align="right">
-  <a href="https://user-badge.committers.top/zimbabwe_public/tsakane28">
-    <img src="https://user-badge.committers.top/zimbabwe_public/tsakane28.svg" alt="committers.top badge" />
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tsakane28" alt="visitor counter" />
+<!-- Header -->
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/tsakane28.svg)](https://user-badge.committers.top/zimbabwe_public/tsakane28)
+&nbsp;&nbsp;
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tsakane28&left_color=1B3A6B&right_color=2E5F9A)
+
 </div>
+
 <br/>
 
 ```typescript
 const tsakane = {
   name:     "Tsakane Munashe Wesley Shiri",
-  role:     "Full-Stack Software Developer",
+  role:     "Full-Stack Developer  ·  Freelance",
   location: "Harare, Zimbabwe 🇿🇼",
-  focus:    ["Scalable Web Apps", "ERP Systems", "Micro-SaaS", "Process Automation"],
+  building: "ZimFlow Forge — FX Operations & Intelligence Platform",
+  focus:    ["FinTech", "Micro-SaaS", "Process Automation", "Data Workflows"],
   contact:  "tsakaneshiri@gmail.com",
 };
 ```
@@ -20,9 +24,43 @@ const tsakane = {
 
 ## About
 
-I build production systems — not just prototypes. Over the past two years at the **Zimbabwe National Geospatial and Space Agency (ZINGSA)** I've architected secure enterprise applications, customised Odoo ERP modules in Python, engineered RESTful APIs for 60+ concurrent users, and cut incident resolution times by 15% through disciplined debugging and root-cause analysis.
+I'm a self-employed full-stack developer building software that solves real problems for real people — one project at a time.
 
-Outside the day job I ship independent projects: [**RSRVD Tickets**](https://github.com/tsakane28) is a high-availability digital ticketing platform with USSD offline access, EcoCash/Paynow payment integration, and serverless QR-ticket delivery — built end-to-end and live in production.
+My work follows a simple pattern: spot a friction point, build something that removes it, and ship it properly. Not MVPs that gather dust. Production systems that people actually use.
+
+<br/>
+
+**Currently building — FinTech & Financial Intelligence**
+
+The latest chapter started with a question: *why is Zimbabwe's official exchange rate data buried in daily PDFs that nobody can easily search, compare, or act on?*
+
+The answer became **[ZimFlow Forge](https://github.com/tsakane28)** — a complete FX operations and intelligence platform built for businesses, traders, and anyone who needs to make decisions with financial data.
+
+What it does:
+
+> **FX Rate Intelligence** — Automated RBZ PDF ingestion, 40+ currency pair monitoring, Bid/Ask/Mid-rate visualisation, and historical trend analytics that turn a government document into a live operational dashboard.
+>
+> **Data Integrity Centre** — Audit trails, sync logs, source tracking, and validation status so every rate is traceable back to its origin.
+>
+> **Transaction Workbench** — Live rate-based calculations, multi-currency conversions, bank charge simulations, IMTT tax calculations, effective rate analysis, and settlement ledger generation — the full workflow a finance team actually needs.
+
+The vision: bridge the gap between raw financial information and practical decision-making. Instead of digging through documents and spreadsheets, users get a structured experience where financial data is searchable, traceable, and actionable.
+
+Built with a focus on automation, data visualisation, financial workflows, and data accuracy.
+
+<br/>
+
+**Previously shipped**
+
+- 🎟️ **[RSRVD Tickets](https://github.com/tsakane28)** — High-availability event ticketing with USSD offline access, EcoCash/Paynow payments, and serverless QR delivery. Works with or without internet bundles.
+- 📄 **[DoneIn5](https://github.com/tsakane28)** — Professional PDF invoices in under 60 seconds, entirely client-side. No account. No backend. No friction.
+- 🗜️ **[Browser File Compressor](https://github.com/tsakane28)** — Up to 95% compression, zero uploads. Every byte stays on the user's device.
+
+<br/>
+
+**Foundation**
+
+Two years at the **Zimbabwe National Geospatial and Space Agency (ZINGSA)** gave me the engineering fundamentals that underpin everything above — architecting enterprise applications, customising Odoo ERP in Python, building RESTful APIs for 60+ concurrent users, and the discipline of maintaining systems that cannot afford to fail.
 
 I care about code that's readable, systems that don't fall over, and interfaces that don't require a manual.
 
@@ -65,12 +103,83 @@ I care about code that's readable, systems that don't fall over, and interfaces 
 
 ## Selected Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**RSRVD Tickets**](https://github.com/tsakane28) | High-availability event ticketing with USSD offline access, EcoCash/Paynow gateways, and serverless QR delivery | Next.js · Firebase · Node.js · USSD |
-| [**AI Student Learning System**](https://github.com/tsakane28) | Edtech platform using AI models for personalised study paths and performance forecasting | Python · Vue · REST APIs |
-| [**DoneIn5 Invoice Generator**](https://github.com/tsakane28) | Instant PDF invoice generator for freelancers — no account required | React · Tailwind · jsPDF |
-| [**Alien Shooter**](https://github.com/tsakane28) | Browser game achieving consistent 60 FPS via Canvas API rendering | JavaScript · HTML5 Canvas |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 ZimFlow Forge</h3>
+      <p><em>RBZ Exchange Rate Intelligence Platform</em></p>
+      <p>Automatically extracts RBZ exchange rate data from official publications and transforms it into real-time dashboards, historical trend analysis, and insights across <strong>40+ currency pairs</strong>. Makes forex data accessible and actionable for businesses, traders, and the public.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-1B3A6B?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-2E5F9A?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data_Analytics-1B3A6B?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/tsakane28">→ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ RSRVD Tickets</h3>
+      <p><em>High-Availability Digital Ticketing Platform</em></p>
+      <p>End-to-end event ticketing with <strong>USSD offline access</strong>, EcoCash and Paynow payment integration, serverless QR ticket generation, and real-time event management — built for both connected and low-connectivity environments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-1B3A6B?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+        <img src="https://img.shields.io/badge/Node.js-2E5F9A?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/USSD-1B3A6B?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/tsakane28">→ View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 DoneIn5 Invoice Generator</h3>
+      <p><em>Browser-Based PDF Invoice Tool</em></p>
+      <p>Freelancers and small businesses generate and download professional PDF invoices in <strong>under 60 seconds</strong> — no account, no subscription, no backend. All processing happens client-side.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-2E5F9A?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-1B3A6B?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jsPDF-2E5F9A?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/tsakane28">→ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗜️ Browser-Based File Compressor</h3>
+      <p><em>Privacy-First Client-Side Compression</em></p>
+      <p>Compresses images and files entirely in the browser with <strong>no uploads, no servers</strong>. Achieves up to 95% file size reduction using the native CompressionStream API and HTML5 Canvas — zero data ever leaves the device.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-1B3A6B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+        <img src="https://img.shields.io/badge/Canvas_API-2E5F9A?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CompressionStream-1B3A6B?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/tsakane28">→ View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 AI Student Learning System</h3>
+      <p><em>Intelligent Education Platform</em></p>
+      <p>AI-powered learning paths, performance forecasting, and personalised study recommendations that adapt to each student's progress and predict outcomes dynamically.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1B3A6B?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-2E5F9A?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_APIs-1B3A6B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML-2E5F9A?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/tsakane28">→ View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👾 Alien Shooter</h3>
+      <p><em>High-Performance Browser Game</em></p>
+      <p>Fast-paced browser game engineered for smooth gameplay with Canvas API rendering and a <strong>consistent 60 FPS</strong> — no game engine, pure JavaScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-1B3A6B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+        <img src="https://img.shields.io/badge/HTML5_Canvas-2E5F9A?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1B3A6B?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/tsakane28">→ View Project</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -88,6 +197,14 @@ I care about code that's readable, systems that don't fall over, and interfaces 
 
 <br/>
 
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsakane28&bg_color=0d1117&color=2E5F9A&line=1B3A6B&point=2E5F9A&area=true&area_color=1B3A6B&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
@@ -101,7 +218,16 @@ I care about code that's readable, systems that don't fall over, and interfaces 
 </div>
 
 <br/>
-Let's Connect
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tsakane28&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## Let's Connect
 
 [<img src="https://img.shields.io/badge/LinkedIn-Tsakane_Shiri-1B3A6B?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tsakane-shiri)
 &nbsp;
@@ -110,4 +236,5 @@ Let's Connect
 [<img src="https://img.shields.io/badge/Portfolio-tsakanemws.lovable.app-1B3A6B?style=flat-square&logo=vercel&logoColor=white"/>](https://tsakanemws.lovable.app)
 &nbsp;
 [<img src="https://img.shields.io/badge/WhatsApp-Chat-2E5F9A?style=flat-square&logo=whatsapp&logoColor=white"/>](https://wa.me/263776555485)
+
 
