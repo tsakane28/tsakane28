@@ -101,15 +101,6 @@ I care about code that's readable, systems that don't fall over, and interfaces 
 </div>
 
 <br/>
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tsakane28&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ## Let's Connect
 
 [<img src="https://img.shields.io/badge/LinkedIn-Tsakane_Shiri-1B3A6B?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tsakane-shiri)
