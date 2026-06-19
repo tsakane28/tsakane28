@@ -6,7 +6,9 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tsakane28&left_color=1B3A6B&right_color=2E5F9A)
 
 </div>
-[![Lovable Top 10%](https://shields.io)](https://lovable.dev)
+> ### 🏆 Global Recognition
+> Proud to be ranked in the **Top 10% Worldwide** on **Lovable.dev** for building elite AI-driven web applications and software architectures.
+
 
 <br/>
 
