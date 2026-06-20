@@ -1,9 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/tsakane28.svg)](https://user-badge.committers.top/zimbabwe_public/tsakane28)
-&nbsp;&nbsp;
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tsakane28&left_color=1B3A6B&right_color=2E5F9A)
 
 </div>
 <br/>
