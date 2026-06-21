@@ -1,5 +1,5 @@
 
-![Lovable Top 10%](https://img.shields.io/badge/Lovable-Top%2010%25%20User-orange?style=for-the-badge)
+![⚜️🇿🇼Lovable Top 10%](https://img.shields.io/badge/Lovable-Top%2010%25%20User-orange?style=for-the-badge)
 <!-- Header -->
 <div align="center">
 
