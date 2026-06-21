@@ -1,8 +1,8 @@
 
 ![Lovable Top 10%](https://img.shields.io/badge/Lovable-Top%2010%25%20User-purple?style=for-the-badge)
 <h1>
-     ⚜️ TOP 10% ⚜️ <br/>
-    🌍 World Wide 🌍 
+  <center>⚜️ TOP 10% ⚜️ <br/>
+    🌍 World Wide 🌍 </center>  
 </h1>
 <!-- Header -->
 <div align="center">
