@@ -1,7 +1,5 @@
 <!-- Header -->
 <div align="center">
-
-
 </div>
 <br/>
 
